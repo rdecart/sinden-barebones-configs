@@ -1,0 +1,4 @@
+/opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/Lightgun_Games.cfg
+/opt/retropie/configs/all/retroarch/config/PCSX-ReARMed/Point Blank (USA).cfg
+/opt/retropie/configs/all/retroarch/config/Flycast/Lightgun_Games.cfg
+/opt/retropie/configs/all/retroarch/config/Flycast/Virtua Cop 2 (Japan).cfg
